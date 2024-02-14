@@ -1,1 +1,1 @@
-print(dados)
+print('dados')
